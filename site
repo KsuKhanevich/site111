@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Название страницы</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    
+    <body>
+        <header>
+            <p>Это шапка</p>
+        </header>
+        <main>
+            <p>Основная часть сайта</p>
+        </main>
+        <footer>
+            <p>Подвал</p>
+        </footer>
+    </body>
+</html>
